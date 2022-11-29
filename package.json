@@ -1,0 +1,16 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "Principios solid en Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solid",
+    "javascript",
+    "js"
+  ],
+  "author": "Nicolas Maximowicz",
+  "license": "ISC"
+}
